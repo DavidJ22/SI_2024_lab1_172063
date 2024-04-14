@@ -1,0 +1,23 @@
+commit 5e812c0049533cd7e8f3d9202b6cb0bc6851df35
+Author: DavidJ22 <david.janev99@gmail.com>
+Date:   Sun Apr 14 22:36:09 2024 +0200
+
+    Adding files for bug fix
+
+commit 1d21bd6b38369b1832ba325e651d6514df9ae7a9
+Author: DavidJ22 <david.janev99@gmail.com>
+Date:   Sun Apr 14 22:49:27 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 64b22660c149725c5ec248d8220d0b74692e4983
+Author: DavidJ22 <david.janev99@gmail.com>
+Date:   Sun Apr 14 22:32:23 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit cc6ffefb3d4b85bbfbca786e4a52eec63e7d4a0a
+Author: DavidJ22 <david.janev99@gmail.com>
+Date:   Sun Apr 14 22:18:06 2024 +0200
+
+    Initial commit
